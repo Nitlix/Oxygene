@@ -1,0 +1,13 @@
+{
+    "name": "oxygene",
+    "version": "1.0.0",
+    "description": "🤩 A React upcoming customisable animation library for the cool kids.",
+    "main": "./dist/exports.jsx",
+    "keywords": [],
+    "author": "NITLIX HOLDINGS LTD.",
+    "license": "MIT",
+    "devDependencies": {
+        "@types/react": "^18.2.37",
+        "react": "^18.2.0"
+    }
+}
